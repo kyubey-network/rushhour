@@ -1,0 +1,20 @@
+{
+  "MySQL": "Server=kyubey2.mysqldb.chinacloudapi.cn;Port=3306;Database=rushhour;Uid=kyubey2%web;Pwd=Kyubey2018;ConnectionReset=false",
+  "TransactionHosts": [
+    "http://api-direct.eosasia.one"
+  ],
+  "Sms": {
+    "AppId": "1400146790",
+    "AppKey": "e9a041c3501547da788314ecd6fb6ad4",
+    "Templates": {
+      "SignIn": 205974,
+      "Incoming": 205968,
+      "Outgoing": 205970
+    }
+  },
+  "BindingLimit": {
+    "Free": 1,
+    "Pro": 3,
+    "Premium": 20
+  }
+}
